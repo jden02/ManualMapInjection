@@ -1,0 +1,3 @@
+﻿  ManualMapInject.cpp
+c:\users\jacko\source\repos\mmdllinjec\mmdllinjec\manualmapinject.cpp(66): warning C4715: 'ManualMap': not all control paths return a value
+  MMDLLinjec.vcxproj -> C:\Users\jacko\source\repos\MMDLLinjec\Debug\MMDLLinjec.exe
